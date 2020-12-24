@@ -6,6 +6,9 @@ public class Main {
     //sample input
     //racecar
 
+    //sample output
+//    The word, racecar, is a palindrome.
+
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
