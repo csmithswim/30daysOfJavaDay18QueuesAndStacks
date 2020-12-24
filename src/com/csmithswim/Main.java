@@ -2,7 +2,10 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-    // Write your code here.
+
+    //sample input
+    //racecar
+
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
